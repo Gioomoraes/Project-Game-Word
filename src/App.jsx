@@ -109,6 +109,8 @@ function App() {
     const uniqueLetters = [...new Set(letters)];
 
     if (guessedLetters.length === uniqueLetters.length) {
+      // add score
+      setScore((actualScore) => (actualScore += 100));
     }
 
     console.log(uniqueLetters);
