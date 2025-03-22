@@ -106,7 +106,12 @@ function App() {
 
   // Check win
   useEffect(() => {
-    const uniqueLetters = [...new set(letters)];
+    const uniqueLetters = [...new Set(letters)];
+
+    if (guessedLetters.length === uniqueLetters.length) {
+    }
+
+    console.log(uniqueLetters);
   }, [guessedLetters]);
   // restart
   const retry = () => {
