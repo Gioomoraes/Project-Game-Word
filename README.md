@@ -30,7 +30,28 @@ Este projeto foi criado com o objetivo de testar e aprofundar o conhecimento em 
 ## **Como Rodar o Projeto**
 
 1. Clone o repositório:
+ 1. Clone o repositório:
    ```bash
    git clone https://github.com/Gioomoraes/Project-Game-Word.git
    ```
+2. Acesse o diretório do projeto:
+   ```bash
+   cd Project-Game-Word
+   ```
+3. Instale as dependências:
+   ```bash
+   npm install
+   ```
+4. Inicie
+   ```bash
+   npm start
+   ```
    O projeto estará disponível no navegador em http://localhost:3000.
+
+## **Licença**
+
+Este projeto está sob a [MIT License](LICENSE).
+
+## Autor(a) 💜
+
+- [@Gioomoraes](https://github.com/Gioomoraes)
