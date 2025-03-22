@@ -47,6 +47,7 @@ function App() {
 
   // starts
   const startGame = () => {
+    clearLetterStates();
     // pick words and category
     const { word, category } = pickWordAndCategory();
 
