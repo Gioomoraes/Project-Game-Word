@@ -32,5 +32,5 @@ Este projeto foi criado com o objetivo de testar e aprofundar o conhecimento em 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Gioomoraes/Project-Game-Word.git
-   O projeto estará disponível no navegador em http://localhost:3000.
    ```
+   O projeto estará disponível no navegador em http://localhost:3000.
