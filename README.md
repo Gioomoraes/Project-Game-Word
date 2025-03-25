@@ -1,4 +1,4 @@
-# **Game Word Guessing **
+# **Game Word Guessing**
 
 Este é um projeto simples de jogo de adivinhar palavras, focado em aprendizado e aprimoramento de habilidades com **React**. O jogo permite ao usuário adivinhar palavras por meio de letras escolhidas, e a cada palavra acertada, o jogo avança mostrando novas palavras, mantendo um sistema de pontuação e possibilitando o reinício do jogo. Este projeto foi criado a partir de auxilio do curso Udemy para aprendizado do react.
 
